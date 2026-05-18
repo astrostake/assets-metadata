@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"reth-wei","exponent":0,"aliases":["0xae78736cd615f374d3085123a210448e74fc6393"]},{"denom":"reth","exponent":18}],"name":"Rocket Pool Ether","display":"reth","symbol":"rETH","base":"reth-wei","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/reth.png"}}

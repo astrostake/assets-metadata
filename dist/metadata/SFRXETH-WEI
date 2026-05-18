@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"sfrxeth-wei","exponent":0,"aliases":["0xac3e018457b222d93114458476f3e3416abbe38f"]},{"denom":"sfrxeth","exponent":18}],"name":"Staked Frax Ether","display":"sfrxeth","symbol":"sfrxETH","base":"sfrxeth-wei","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/sfrxeth.svg"}}

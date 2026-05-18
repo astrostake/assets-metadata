@@ -1,0 +1,1 @@
+{"description":"A Stablecoin native to the Kopi blockchain","denom_units":[{"denom":"ukusd","exponent":0},{"denom":"kUSD","exponent":6}],"name":"kUSD","display":"kUSD","symbol":"kUSD","keywords":["dex","mm","automations","arbitrage"],"base":"ukusd","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/kopi/images/kusd.svg"}}

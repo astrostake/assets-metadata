@@ -1,0 +1,1 @@
+{"description":"Maker on Axelar","denom_units":[{"denom":"mkr-wei","exponent":0},{"denom":"mkr","exponent":18}],"name":"Maker","display":"mkr","symbol":"MKR","base":"mkr-wei","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg"}}

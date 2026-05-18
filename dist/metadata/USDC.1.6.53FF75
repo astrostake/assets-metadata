@@ -1,0 +1,1 @@
+{"description":"USD Coin (BEP-20) token on Carbon","denom_units":[{"denom":"usdc.1.6.53ff75","exponent":0},{"denom":"usdc","exponent":18,"aliases":["USDC"]}],"name":"USD Coin (BEP-20)","display":"usdc","symbol":"USDC","base":"usdc.1.6.53ff75","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"}}

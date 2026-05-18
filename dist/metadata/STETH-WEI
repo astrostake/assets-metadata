@@ -1,0 +1,1 @@
+{"description":"Lido Staked Ether on Axelar","denom_units":[{"denom":"steth-wei","exponent":0},{"denom":"steth","exponent":18}],"name":"Lido Staked Ether","display":"steth","symbol":"stETH","base":"steth-wei","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/steth.svg"}}
