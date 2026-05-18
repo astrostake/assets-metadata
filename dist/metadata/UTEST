@@ -1,0 +1,1 @@
+{"description":"The native fee token of Gateway.","denom_units":[{"denom":"utest","exponent":0},{"denom":"test","exponent":6}],"name":"Test","display":"test","symbol":"TEST","base":"utest"}

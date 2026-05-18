@@ -1,0 +1,1 @@
+{"description":"The native token of Loop","denom_units":[{"denom":"token","exponent":0}],"name":"Token","display":"token","symbol":"TOKEN","base":"token","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/loop/images/loop.png","svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/loop/images/loop.svg"}}

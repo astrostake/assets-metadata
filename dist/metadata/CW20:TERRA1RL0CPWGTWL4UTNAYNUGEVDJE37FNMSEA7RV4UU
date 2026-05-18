@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu","exponent":0},{"denom":"whgsail","exponent":8}],"name":"SolanaSail Governance Token V2","display":"whgsail","symbol":"whgSAIL","base":"cw20:terra1rl0cpwgtwl4utnaynugevdje37fnmsea7rv4uu","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/whgsail.png"}}

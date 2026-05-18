@@ -1,0 +1,1 @@
+{"description":"A MM deposit receipt of the Stablecoin USDC from noble Chain","denom_units":[{"denom":"ucusdc","exponent":0},{"denom":"cUSDC","exponent":6}],"name":"cUSDC","display":"cUSDC","symbol":"CUSDC","keywords":["dex","mm"],"base":"ucusdc","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/kopi/images/cusdc.svg"}}

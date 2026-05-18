@@ -1,0 +1,1 @@
+{"description":"Kudora Native Token","denom_units":[{"denom":"kud","exponent":0},{"denom":"Kudo","exponent":18}],"name":"Kudo","display":"Kudo","symbol":"KUD","keywords":["kudora"],"base":"kud"}

@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh","exponent":0},{"denom":"mtsla","exponent":6}],"name":"Tesla, Inc.","display":"mtsla","symbol":"mTSLA","base":"cw20:terra14y5affaarufk3uscy2vr6pe6w6zqf2wpjzn5sh","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/mtsla.png"}}

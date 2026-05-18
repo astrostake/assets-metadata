@@ -1,0 +1,1 @@
+{"description":"The native token of Axone.","denom_units":[{"denom":"uaxone","exponent":0},{"denom":"axone","exponent":6}],"name":"Axone","display":"axone","symbol":"AXONE","base":"uaxone","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/axone/images/chain.png"}}

@@ -1,0 +1,1 @@
+{"description":"The resource token of Bostrom","denom_units":[{"denom":"millivolt","exponent":0,"aliases":["millivolt"]},{"denom":"volt","exponent":3,"aliases":["volt"]}],"name":"Bostrom Volt","display":"volt","symbol":"V","base":"millivolt","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/bostrom/images/volt.png"}}

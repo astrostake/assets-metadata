@@ -1,0 +1,1 @@
+{"description":"The native token of Pocket Network","denom_units":[{"denom":"upokt","exponent":0},{"denom":"pokt","exponent":6}],"name":"POKT","display":"pokt","symbol":"POKT","keywords":["rpc","api"],"base":"upokt","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/pocket/images/pokt-icon.svg"}}

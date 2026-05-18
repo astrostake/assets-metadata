@@ -1,0 +1,1 @@
+{"description":"LOM is the native fee token of Lombard Ledger","denom_units":[{"denom":"ulom","exponent":0},{"denom":"lom","exponent":6}],"name":"Lom","display":"lom","symbol":"LOM","base":"ulom"}

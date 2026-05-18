@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy","exponent":0},{"denom":"lctfancard","exponent":6}],"name":"LCT Fancard Token","display":"lctfancard","symbol":"LCTfancard","base":"cw20:terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/lctfancard.png"}}

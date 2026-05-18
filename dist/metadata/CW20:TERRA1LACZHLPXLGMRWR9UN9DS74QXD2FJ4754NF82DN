@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn","exponent":0},{"denom":"wcoin","exponent":6}],"name":"Willisch Coin","display":"wcoin","symbol":"WCOIN","base":"cw20:terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/wcoin.svg"}}

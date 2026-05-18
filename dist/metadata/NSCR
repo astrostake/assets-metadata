@@ -1,0 +1,1 @@
+{"description":"The native token of Scorum","denom_units":[{"denom":"nscr","exponent":0},{"denom":"scr","exponent":9}],"name":"Scorum","display":"scr","symbol":"SCR","base":"nscr","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/scorum/images/scr.png","svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/scorum/images/scr.svg"}}

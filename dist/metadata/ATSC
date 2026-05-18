@@ -1,0 +1,1 @@
+{"description":"The native token of the TSC chain.","denom_units":[{"denom":"aTSC","exponent":0},{"denom":"TSC","exponent":18}],"name":"TSC","display":"TSC","symbol":"TSC","base":"aTSC","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/tsc/images/tsc.png"}}

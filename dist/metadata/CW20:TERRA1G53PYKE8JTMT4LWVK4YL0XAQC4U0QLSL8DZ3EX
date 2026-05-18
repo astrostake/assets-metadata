@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex","exponent":0},{"denom":"kust","exponent":6}],"name":"Kinetic kUST Token","display":"kust","symbol":"kUST","base":"cw20:terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/kust.svg"}}

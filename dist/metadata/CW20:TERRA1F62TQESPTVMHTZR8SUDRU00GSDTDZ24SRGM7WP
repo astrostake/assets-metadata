@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp","exponent":0},{"denom":"robo","exponent":6}],"name":"RoboHero","display":"robo","symbol":"ROBO","base":"cw20:terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/robo.png"}}

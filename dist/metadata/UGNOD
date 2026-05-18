@@ -1,0 +1,1 @@
+{"description":"The native token of gnodi","denom_units":[{"denom":"uGNOD","exponent":0},{"denom":"GNOD","exponent":6}],"name":"GNOD","display":"GNOD","symbol":"GNOD","base":"uGNOD","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/gnodi/images/gnod.png"}}

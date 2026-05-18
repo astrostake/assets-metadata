@@ -1,0 +1,1 @@
+{"description":"Harmonized HKD","denom_units":[{"denom":"ukhd","exponent":0,"aliases":["microhkd"]},{"denom":"hkhd","exponent":6}],"name":"Harmony HKD","display":"hkhd","symbol":"HKHD","base":"ukhd","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/symphony/images/hhkd.png"}}

@@ -1,0 +1,1 @@
+{"description":"A MM deposit receipt of the Stablecoin USDT from Injective Chain","denom_units":[{"denom":"ucusdtinj","exponent":0},{"denom":"cUSDT.inj","exponent":6}],"name":"cUSDT.inj","display":"cUSDT.inj","symbol":"cUSDT.inj","keywords":["dex","mm"],"base":"ucusdtinj","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/kopi/images/cusdt.svg"}}

@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"ulume","exponent":0,"aliases":["microlume"]},{"denom":"LUME","exponent":6,"aliases":["lume"]}],"name":"lume","display":"LUME","symbol":"LUME","base":"ulume","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/lumera/images/lumera.png"}}

@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn","exponent":0},{"denom":"neth","exponent":6}],"name":"Nexus nETH Token","display":"neth","symbol":"nETH","base":"cw20:terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/neth.svg"}}

@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93","exponent":0},{"denom":"rct","exponent":6}],"name":"Reactor Token","display":"rct","symbol":"RCT","base":"cw20:terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/rct.svg"}}

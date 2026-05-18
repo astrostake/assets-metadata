@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr","exponent":0},{"denom":"mhood","exponent":6}],"name":"Robinhood Markets, Inc.","display":"mhood","symbol":"mHOOD","base":"cw20:terra18yqdfzfhnguerz9du5mnvxsh5kxlknqhcxzjfr","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/mhood.png"}}

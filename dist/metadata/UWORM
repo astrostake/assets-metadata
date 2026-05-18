@@ -1,0 +1,1 @@
+{"description":"the native staking token of Gateway.","denom_units":[{"denom":"uworm","exponent":0},{"denom":"worm","exponent":6}],"name":"Worm","display":"worm","symbol":"WORM","base":"uworm"}

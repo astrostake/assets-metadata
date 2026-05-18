@@ -1,0 +1,1 @@
+{"description":"The token of Anubis.","denom_units":[{"denom":"erc20/0xF630B96760B91f6FCbE8b3C24f2786AcA3D03648","exponent":0},{"denom":"anubi","exponent":18}],"name":"Anubis","display":"anubi","symbol":"ANUBI","base":"erc20/0xF630B96760B91f6FCbE8b3C24f2786AcA3D03648","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/anubis.png"}}

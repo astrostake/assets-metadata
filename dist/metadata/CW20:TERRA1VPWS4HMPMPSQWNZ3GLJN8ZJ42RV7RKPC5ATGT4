@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4","exponent":0},{"denom":"dfiat","exponent":8}],"name":"DeFiato","display":"dfiat","symbol":"DFIAT","base":"cw20:terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4"}

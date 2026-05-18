@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7","exponent":0},{"denom":"dph","exponent":6}],"name":"Digipharm","display":"dph","symbol":"DPH","base":"cw20:terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/dph.png"}}

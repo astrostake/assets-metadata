@@ -1,0 +1,1 @@
+{"description":"The native token of Hippo Protocol.","denom_units":[{"denom":"ahp","exponent":0}],"name":"Hippo","display":"ahp","symbol":"HP","coingecko_id":"hippo-protocol","base":"ahp","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/hippoprotocol/images/logo.svg"}}

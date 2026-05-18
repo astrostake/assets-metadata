@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds","exponent":0},{"denom":"bbro","exponent":6}],"name":"bBRO token","display":"bbro","symbol":"bBRO","base":"cw20:terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/bbro.svg"}}

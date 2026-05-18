@@ -1,0 +1,1 @@
+{"description":"The token for the Arena DAO","denom_units":[{"denom":"factory/juno1vwmnqk0vyxc96qgffrure4nqxupjrql0zut8s02hadgp0n79r8xq5xdsxy/ARENA","exponent":0},{"denom":"arena","exponent":6}],"name":"Arena Token","display":"arena","symbol":"ARENA","base":"factory/juno1vwmnqk0vyxc96qgffrure4nqxupjrql0zut8s02hadgp0n79r8xq5xdsxy/ARENA"}

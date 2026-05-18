@@ -1,0 +1,1 @@
+{"description":"Nomic's native token.","denom_units":[{"denom":"unom","exponent":0},{"denom":"nom","exponent":6}],"name":"Nomic","display":"nom","symbol":"NOM","base":"unom","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nom.png","svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nom.svg"}}

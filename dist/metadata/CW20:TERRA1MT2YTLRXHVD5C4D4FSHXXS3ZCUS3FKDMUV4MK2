@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2","exponent":0},{"denom":"bro","exponent":6}],"name":"BRO token","display":"bro","symbol":"BRO","base":"cw20:terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/bro.svg"}}

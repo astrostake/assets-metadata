@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j","exponent":0},{"denom":"pug","exponent":6}],"name":"AstroPug Token","display":"pug","symbol":"PUG","base":"cw20:terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/pug.png"}}

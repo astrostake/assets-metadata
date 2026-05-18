@@ -1,0 +1,1 @@
+{"description":"ustake is a synthetic token to implement a PoA with BFT features over CometBFT","denom_units":[{"denom":"ustake","exponent":0}],"name":"ustake","display":"ustake","symbol":"USTAKE","base":"ustake"}

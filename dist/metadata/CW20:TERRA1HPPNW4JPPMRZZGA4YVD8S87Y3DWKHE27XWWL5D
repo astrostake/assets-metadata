@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d","exponent":0},{"denom":"ceres","exponent":6}],"name":"Ceres Governance Token","display":"ceres","symbol":"CERES","base":"cw20:terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/ceres.svg"}}

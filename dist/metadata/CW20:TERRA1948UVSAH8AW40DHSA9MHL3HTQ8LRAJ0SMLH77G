@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g","exponent":0},{"denom":"sb","exponent":6}],"name":"DragonSB","display":"sb","symbol":"SB","base":"cw20:terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/sb.png"}}

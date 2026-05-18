@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1u553zk43jd4rwzc53qrdrq4jc2p8rextyq09dj","exponent":0},{"denom":"cnluna","exponent":6}],"name":"nLuna autocompounder share representation","display":"cnluna","symbol":"cnLuna","base":"cw20:terra1u553zk43jd4rwzc53qrdrq4jc2p8rextyq09dj","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/cnluna.svg"}}

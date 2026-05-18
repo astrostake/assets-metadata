@@ -1,0 +1,1 @@
+{"description":"The native token of SEDA Chain.","denom_units":[{"denom":"aseda","exponent":0},{"denom":"seda","exponent":18}],"name":"Seda","display":"seda","symbol":"SEDA","coingecko_id":"seda-2","base":"aseda","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/seda/images/seda.png"}}

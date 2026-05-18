@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636","exponent":0},{"denom":"navax","exponent":6}],"name":"Nexus nAVAX Token","display":"navax","symbol":"nAVAX","base":"cw20:terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/navax.svg"}}

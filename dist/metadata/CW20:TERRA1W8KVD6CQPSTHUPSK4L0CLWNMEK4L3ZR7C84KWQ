@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq","exponent":0},{"denom":"halo","exponent":6}],"name":"Angel Protocol Token","display":"halo","symbol":"HALO","base":"cw20:terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/halo.png"}}

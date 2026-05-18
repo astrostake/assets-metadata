@@ -1,0 +1,1 @@
+{"description":"The native token of kopi","denom_units":[{"denom":"ukopi","exponent":0},{"denom":"XKP","exponent":6}],"name":"XKP","display":"XKP","symbol":"XKP","keywords":["dex","mm","staking","automations"],"base":"ukopi","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/kopi/images/kopi.svg"}}

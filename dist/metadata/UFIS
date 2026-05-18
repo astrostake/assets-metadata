@@ -1,0 +1,1 @@
+{"description":"The native staking and governance token of the StaFi Hub.","denom_units":[{"denom":"ufis","exponent":0},{"denom":"fis","exponent":6}],"name":"FIS","display":"fis","symbol":"FIS","coingecko_id":"stafi","base":"ufis","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/fis.svg"}}

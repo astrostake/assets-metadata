@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun","exponent":0},{"denom":"beth","exponent":6}],"name":"Bonded ETH","display":"beth","symbol":"bETH","base":"cw20:terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/beth.png"}}

@@ -1,0 +1,1 @@
+{"description":"CRO is the native token of the Crypto.org Chain, referred to as Native CRO.","denom_units":[{"denom":"basecro","exponent":0},{"denom":"cro","exponent":8}],"name":"Cronos","display":"cro","symbol":"CRO","coingecko_id":"crypto-com-chain","base":"basecro","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cro.svg"}}

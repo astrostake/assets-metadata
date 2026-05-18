@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra12897djskt9rge8dtmm86w654g7kzckkd698608","exponent":0},{"denom":"psi","exponent":6}],"name":"Nexus Governance Token","display":"psi","symbol":"Psi","base":"cw20:terra12897djskt9rge8dtmm86w654g7kzckkd698608","logo_URIs":{"png":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/psi.png"}}

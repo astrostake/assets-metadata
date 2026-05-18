@@ -1,0 +1,1 @@
+{"denom_units":[{"denom":"cw20:terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr","exponent":0},{"denom":"mint","exponent":6}],"name":"MintDAO","display":"mint","symbol":"MINT","base":"cw20:terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr","logo_URIs":{"svg":"https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/mint.svg"}}
